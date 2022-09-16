@@ -64,7 +64,7 @@ article p {
 }
 
 img{
-
+\
 
 }
 img {
@@ -117,4 +117,13 @@ div{
 ::selection { 
   color: black;
   background-color: #F0EEC9;
+}
+.hobbies{
+  background-color: rgb(215, 207, 97);
+  margin-top: 50px ;
+  border-radius: 25px;
+  transform: perspective( 11cm) rotateX(-20deg) rotateY(25deg);
+  padding: 20px;
+  box-shadow: 5px 10px 15px black;
+
 }
