@@ -1,2 +1,5 @@
-> Fork deze leertaak en ga aan de slag. Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
+#Profile card  
 
+
+
+https://amirdev98.github.io/your-tribe-profile-card/
